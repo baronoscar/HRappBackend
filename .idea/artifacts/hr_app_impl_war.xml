@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hr-app-impl:war">
+    <output-path>$PROJECT_DIR$/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac/impl/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hr-app-impl</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hr-app-impl.war">
+      <element id="artifact" artifact-name="hr-app-impl:war exploded" />
+    </root>
+  </artifact>
+</component>

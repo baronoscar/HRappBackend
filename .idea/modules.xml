@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac/hr-app-backend.iml" filepath="$PROJECT_DIR$/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac/hr-app-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac/commons/hr-app-commons.iml" filepath="$PROJECT_DIR$/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac/commons/hr-app-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac/impl/hr-app-impl.iml" filepath="$PROJECT_DIR$/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac/impl/hr-app-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac.iml" filepath="$PROJECT_DIR$/.idea/unionsystems-hrapp-wksp-hr-app-backend-3b53a60101ac.iml" />
+    </modules>
+  </component>
+</project>
